@@ -69,3 +69,4 @@ A responsive personal portfolio built with React.js, featuring smooth scrolling 
 A real-time chat application using Node.js and Socket.io, designed for efficient instant messaging with a responsive UI.
 
 Thank you for exploring my projects!
+Contact: Drop message on Email
