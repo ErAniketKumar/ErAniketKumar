@@ -45,7 +45,7 @@
 
 ## Projects
 ### [LiveTogether Edu. Site](#)
-- **Duration:** Jan 2024 – Jun 2026
+- **Duration:** Jan 2024 – Jun 2024
 - **Technologies:** JavaScript, CSS, Bootstrap, Node.js
 - **Live Demo:** [livetogether.onrender.com](#)
 
