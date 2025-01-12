@@ -47,7 +47,7 @@
 ### [LiveTogether Edu. Site](#)
 - **Duration:** Jan 2024 – Jun 2024
 - **Technologies:** JavaScript, CSS, Bootstrap, Node.js
-- **Live Demo:** [livetogether.onrender.com](#)
+- **Live Demo:**<a href="https://livetogether.onrender.com/" target="_blank">LiveTogether Edu</a>
 
 **Summary:**
 A comprehensive educational platform offering college comparison tools, a robust online learning environment, and a mentorship program for computer science students.
@@ -55,7 +55,7 @@ A comprehensive educational platform offering college comparison tools, a robust
 ### [Portfolio Website](#)
 - **Duration:** Aug 2024
 - **Technologies:** React, React-smooth-scroll, Tailwind CSS
-- **Live Demo:** [ianiket.web.app](#)
+- **Live Demo:** <a href="https://ianiket.web.app/" target="_blank">Portfolio</a>
 
 **Summary:**
 A responsive personal portfolio built with React.js, featuring smooth scrolling and a modern design using Tailwind CSS.
@@ -63,7 +63,7 @@ A responsive personal portfolio built with React.js, featuring smooth scrolling 
 ### [Live Chat Web](#)
 - **Duration:** Jun 2024
 - **Technologies:** Express.js, JavaScript, Socket.io, HTML, CSS
-- **Live Demo:** [lovejivan.onrender.com](#)
+- **Live Demo:** <a href="https://lovejivan.onrender.com/" target="_blank">Chat App</a> 
 
 **Summary:**
 A real-time chat application using Node.js and Socket.io, designed for efficient instant messaging with a responsive UI.
