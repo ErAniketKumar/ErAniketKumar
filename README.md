@@ -4,7 +4,7 @@
 <p align="center">
   - 🔭 I’m currently working on <a href="https://github.com/ErAniketKumar/myportfolio" target="_blank">Personal portfolio website</a><br>
   - 🌱 I’m currently learning <a href="https://github.com/ErAniketKumar/MERN-LEARN" target="_blank">MERN Stack Development</a><br>
-  - 👨‍💻 All of my projects are available at <a href="http://ianiket.web.app" target="_blank">ianiket.web.app</a><br>
+  - 👨‍💻 All of my projects are available at <a href="http://eraniket.netlify.app" target="_blank">ianiket.web.app</a><br>
   - 💬 Ask me about <strong>React, C++ DSA</strong><br>
   - 📫 How to reach me: <strong>eraniket95@hotmail.com</strong>
 </p>
