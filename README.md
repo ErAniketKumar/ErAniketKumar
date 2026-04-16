@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  - 🔭 Currently building <strong>Kalawatiputra Edu</strong> & Modern Portfolio Systems<br>
+  - 🔭Currently building <strong>Kalawatiputra Edu - A Revolution in Education<br>
   - 🌱 Deep diving into <strong>Advanced MERN Stack, System Design & Cloud</strong><br>
   - 👨‍💻 Check out my work at <a href="https://ianiket.web.app" target="_blank"><strong>ianiket.web.app</strong></a><br>
-  - 💬 Ask me about <strong>React, Node.js, TypeScript, C++ DSA</strong><br>
-  - 📫 Reach me: <strong>eraniket95@hotmail.com</strong>
+  - 💬 Ask me about <strong>Python, FastAPI, C#, .NET, React, Node.js, TypeScript, C++ DSA</strong><br>
+  - 📫 Reach me: <strong>aniketshraff@gmail.com</strong>
 </p>
 
 ---
